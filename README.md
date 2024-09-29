@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and Systems Programming
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on MERN Stack, C, AWS Cloud
-- 📫 Reach me on Whatsapp - +91-9508857157
+- 📫 Reach me on Whatsapp - +91-7508857157
 - ⚡ Fun fact: Rated 1700 on Lichess
 
 <!---
